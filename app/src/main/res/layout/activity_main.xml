@@ -15,6 +15,12 @@
         tools:context="id.sch.smktelkom_mlg.tugas01.xiirpl4036.aplikasihotel3.MainActivity">
 
 
+        <ImageView
+            android:layout_width="123dp"
+            android:layout_height="147dp"
+            android:id="@+id/imageView"
+            android:src="@drawable/logo"
+            android:layout_gravity="center_horizontal" />
 
         <TextView
             android:layout_width="wrap_content"

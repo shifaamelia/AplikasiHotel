@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Kapasitas">
+        <item>Single room</item>
+        <item>Twin room</item>
+        <item>Double room</item>
+        <item>Triple/Family room</item>
+    </string-array>
+</resources>
