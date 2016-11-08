@@ -15,4 +15,5 @@ Ide Aplikasi Ini adalah form untuk pemesanan hotel dimana sekarang maraknya apli
 1. Nama : Shifa Amelia Arista
 2. Kelas : XII RPL 4
 3. No. Absen : 36
-4. Asal Sekolah : SMK Telkom Malang
+4. NIS : 4444/1342
+5. Asal Sekolah : SMK Telkom Malang
